@@ -3,11 +3,6 @@ A simple React app to test competencies. Utilizes the Spotify API to display an 
 
 > React is a JavaScript library for creating user interfaces. Its core principles are declarative code, efficiency, and flexibility. Simply specify what your component looks like and React will keep it up-to-date when the underlying data changes.
 
-[React Docs](https://facebook.github.io/react/docs/getting-started.html)
-[Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
-[Spotify API](https://developer.spotify.com/web-api/search-item/)
-[Bootstrap](http://getbootstrap.com/components/)
-
 ## Objectives
 The goal is to turn this basic, non-optomized app into a React efficient and functional app. Currently, it is just a jQuery app that utilizes DOM manipulation to render the UI. React does all of this out of the box when handled correctly.
 
@@ -22,3 +17,10 @@ The goal is to turn this basic, non-optomized app into a React efficient and fun
 ## Running
 
 Clone the repo to your local system. Navigate to the folder in your terminal or command prompt. Run `npm start` to fire up the node server on localhost. Then, go to `http://localhost:3000/` to access the app.
+
+## Links
+
+- [React Docs](https://facebook.github.io/react/docs/getting-started.html)
+- [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [Spotify API](https://developer.spotify.com/web-api/search-item/)
+- [Bootstrap](http://getbootstrap.com/components/)
