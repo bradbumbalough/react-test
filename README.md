@@ -16,6 +16,8 @@ The goal is to turn this basic, non-optomized app into a React efficient and fun
 
 ## Running
 
+While you are only building a client side app, we are using nodejs to run the server. If you do not have node installed, [download the latest version here](https://nodejs.org/en/). Once you have installed node, it would be wise to install npm as well. Simply run `sudo npm install npm -g` (remove `sudu` from windows). You can also use homebrew to install node if you're using a mac. Ensure you run `brew update` first.
+
 Clone the repo to your local system. Navigate to the folder in your terminal or command prompt. Run `npm start` to fire up the node server on localhost. Then, go to `http://localhost:3000/` to access the app.
 
 ## Links
