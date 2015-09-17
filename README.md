@@ -12,7 +12,7 @@ The goal is to turn this basic, non-optomized app into a React efficient and fun
   Data sould flow down from the parent components to the children. Props are immutatble and should be tired to a parent's mutable state.
 3. **Fetch Data**.
   API callouts should directly feed component state.
-4. *(Bonus)* Implement Bootstrap for styling (not just the css, but think thought the right Bootstrap components to aid the app).
+4. **(Bonus)** Implement Bootstrap for styling (not just the css, but think through using the right Bootstrap components for the best UX).
 
 ## Running
 
